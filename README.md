@@ -1,3 +1,6 @@
+> [!NOTE]
+> Currently doing early-stage investigative work for this project.
+
 # ankiml
 The **anki markup language** is a markup language that can be interpreted to
 generate [Anki](https://apps.ankiweb.net/) decks, allowing automatic Anki card
